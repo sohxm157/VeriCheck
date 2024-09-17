@@ -1,0 +1,2 @@
+# VeriCheck
+Fake News Classification
